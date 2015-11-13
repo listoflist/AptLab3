@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/bin/python
 """Unit tests for the project1.authentication module."""
 
 from unittest import TestCase
